@@ -8,4 +8,4 @@
 
 ## Reporting a Vulnerability
 
-To report a vunrabilaty please open an issue on githum
+To report a vunrabilaty please open an issue on github
